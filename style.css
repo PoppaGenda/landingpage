@@ -30,8 +30,28 @@ ul{
     height:20%;
     background-color: #1f2937;
     color:white;
-    
+    display:flex;
+    justify-content: space-between;
+    ;
+    margin:20 px;    
 }
+.ba,.bb{
+    width:500px;
+    margin:20px;
+    height:400px;
+}
+
+#bb1{
+    width:400px;
+    height:300px;
+    background-color: rgb(93, 93, 93);
+    color:white;
+    text-align:center;
+    align-self: center;
+    padding:10px;
+}
+
+
 .b1{
     width:auto;
     height:20%;
