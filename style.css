@@ -21,7 +21,8 @@ ul{
     gap: 10px;
     margin:10px;
     margin-right: 20px;
-    color:white
+    color:white;
+    padding-right: 70px;
 }
 
 
@@ -45,6 +46,7 @@ ul{
     width:400px;
     height:300px;
     background-color: rgb(93, 93, 93);
+    border:10px solid gray;
     color:white;
     text-align:center;
     align-self: center;
